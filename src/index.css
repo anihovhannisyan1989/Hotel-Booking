@@ -1,0 +1,17 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.vh-85 {
+  height: 85vh;
+}
+.vh-50 {
+  height: 50vh;
+}
+
+.top-30 {
+  top: 30px;
+}
+
+/* .hotel-card-parent{
+  text-decoration: none;
+  color: initial;
+} */
